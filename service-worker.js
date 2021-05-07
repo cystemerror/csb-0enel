@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://cystemerror.github.io/csb-0enel/precache-manifest.26fc6b56956d3a00cb5af0d5a09e64bc.js"
+  "https://cystemerror.github.io/csb-0enel/precache-manifest.1696eac97f5ab4e487ac0346d126773a.js"
 );
 
 workbox.clientsClaim();

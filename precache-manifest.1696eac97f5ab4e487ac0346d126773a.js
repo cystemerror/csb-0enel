@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4bdcf04bc3b5d0333be0",
-    "url": "https://cystemerror.github.io/csb-0enel/static/css/main.52129e0c.chunk.css"
+    "revision": "2bbc78bde70e7d038489",
+    "url": "https://cystemerror.github.io/csb-0enel/static/css/main.7ed10b7c.chunk.css"
   },
   {
-    "revision": "4bdcf04bc3b5d0333be0",
-    "url": "https://cystemerror.github.io/csb-0enel/static/js/main.4bdcf04b.chunk.js"
+    "revision": "2bbc78bde70e7d038489",
+    "url": "https://cystemerror.github.io/csb-0enel/static/js/main.2bbc78bd.chunk.js"
   },
   {
     "revision": "10d287770d84daf1573c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "https://cystemerror.github.io/csb-0enel/static/media/logo.654bd0ee.svg"
   },
   {
-    "revision": "1d46fcb80129504f7f85666d0edc4d5c",
+    "revision": "e99402eaa6f9af1632025cbc9f75e06e",
     "url": "https://cystemerror.github.io/csb-0enel/index.html"
   }
 ];
